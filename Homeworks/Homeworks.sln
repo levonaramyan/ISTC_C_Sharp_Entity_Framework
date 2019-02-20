@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Create_Two_Tables_01_Codefirst", "01_Create_Two_Tables_01_Codefirst\01_Create_Two_Tables_01_Codefirst.csproj", "{B31F8CD5-AC94-4B06-945C-28E892086989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Create_Two_Tables_02_Code_First_From_DB", "01_Create_Two_Tables_02_Database_First\01_Create_Two_Tables_02_Code_First_From_DB.csproj", "{889E384F-66CF-459A-AAFE-B8321CEF9FA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B31F8CD5-AC94-4B06-945C-28E892086989}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B31F8CD5-AC94-4B06-945C-28E892086989}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B31F8CD5-AC94-4B06-945C-28E892086989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889E384F-66CF-459A-AAFE-B8321CEF9FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889E384F-66CF-459A-AAFE-B8321CEF9FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889E384F-66CF-459A-AAFE-B8321CEF9FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889E384F-66CF-459A-AAFE-B8321CEF9FA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
