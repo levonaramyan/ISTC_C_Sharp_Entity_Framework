@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aab24802c3e74ae98356fad86056a1bc" Name="Diagram1">
+        <EntityTypeShape EntityType="FotballDataFirstModel.Coach" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FotballDataFirstModel.Match" Width="1.5" PointX="6" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FotballDataFirstModel.Player" Width="1.5" PointX="3" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FotballDataFirstModel.Referee" Width="1.5" PointX="3.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FotballDataFirstModel.Team" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="FotballDataFirstModel.FK__Coach__Team_Id__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="FotballDataFirstModel.FK__Match__Referee_I__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="FotballDataFirstModel.FK__Match__Team1_Id__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="FotballDataFirstModel.FK__Match__Team2_Id__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="FotballDataFirstModel.FK__Player__Team_Id__37A5467C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
