@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Connections_Football_Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Connections_Football_DB_First", "02_Connections_Football_DB_First\02_Connections_Football_DB_First.csproj", "{7C5F8446-61F6-4C10-B526-853A48F5B9CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Fluent_API_Testing", "03_Fluent_API_Testing\03_Fluent_API_Testing.csproj", "{2A4EA2B4-D4D9-47ED-B23B-45DB3F73FEB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7C5F8446-61F6-4C10-B526-853A48F5B9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C5F8446-61F6-4C10-B526-853A48F5B9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C5F8446-61F6-4C10-B526-853A48F5B9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4EA2B4-D4D9-47ED-B23B-45DB3F73FEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4EA2B4-D4D9-47ED-B23B-45DB3F73FEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4EA2B4-D4D9-47ED-B23B-45DB3F73FEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4EA2B4-D4D9-47ED-B23B-45DB3F73FEB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
